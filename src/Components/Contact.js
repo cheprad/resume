@@ -19,17 +19,17 @@ class Contact extends Component {
 
          <div className="row section-head">
 
-            <div className="two columns header-col">
+            {/* <div className="two columns header-col">
 
                <h1><span>Get In Touch.</span></h1>
 
-            </div>
+            </div> */}
 
-            <div className="ten columns">
+            {/* <div className="ten columns">
 
                   <p className="lead">{message}</p>
 
-            </div>
+            </div> */}
 
          </div>
 
@@ -87,7 +87,7 @@ class Contact extends Component {
 					   </p>
 				   </div>
 
-               <div className="widget widget_tweets">
+               {/* <div className="widget widget_tweets">
                   <h4 className="widget-title">Latest Tweets</h4>
                   <ul id="twitter">
                      <li>
@@ -107,7 +107,7 @@ class Contact extends Component {
                         <b><a href="#">3 Days Ago</a></b>
                      </li>
                   </ul>
-		         </div>
+		         </div> */}
             </aside>
       </div>
    </section>
